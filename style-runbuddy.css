@@ -1,0 +1,36 @@
+
+#title .boxed {
+    border: 2px solid blue ;
+  }
+
+  #header .boxed {
+    border: 2px solid yellow ;
+  }
+
+  #hero .boxed {
+    border: 2px solid blue ;
+  }
+
+  #p1 .boxed {
+    border: 2px solid black ;
+  }
+
+  #p2 .boxed {
+    border: 2px solid yellow ;
+  }
+  #p3 .boxed {
+    border: 2px solid black ;
+  }
+  
+  #p4 .boxed {
+    border: 2px solid blue ;
+  }
+
+  #footer .boxed {
+    border: 2px solid yellow ;
+  }
+
+
+
+
+
