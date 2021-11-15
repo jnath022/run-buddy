@@ -1,32 +1,32 @@
 
-#title .boxed {
+.boxed {
     border: 2px solid blue ;
   }
 
-  #header .boxed {
+.boxed1 {
     border: 2px solid yellow ;
   }
 
-  #hero .boxed {
+.boxed {
     border: 2px solid blue ;
   }
 
-  #p1 .boxed {
+.boxed2 {
     border: 2px solid black ;
   }
 
-  #p2 .boxed {
+.boxed3 {
     border: 2px solid yellow ;
   }
-  #p3 .boxed {
+.boxed4 {
     border: 2px solid black ;
   }
   
-  #p4 .boxed {
+.boxed5 {
     border: 2px solid blue ;
   }
 
-  #footer .boxed {
+.boxed6 {
     border: 2px solid yellow ;
   }
 
