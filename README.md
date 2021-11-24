@@ -1,3 +1,16 @@
 Jamal Nath, fullstack web developer, located in Ottawa ON, CA.
- I have wrote the entirety of both index.html and style-runbuddy.css in the run-buddy directory on my remote repo.
- Run the code locally before trying it in the web browser.
+ 
+ # Run Buddy
+
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [Jamal Nath, fullstack web developer, located in Ottawa ON, CA.]
